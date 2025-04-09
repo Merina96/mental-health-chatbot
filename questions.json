@@ -1,0 +1,24 @@
+[
+  {
+    "question": "How often have you felt overwhelmed in the past week?",
+    "options": ["Not at all", "Rarely", "Sometimes", "Often", "Almost always"]
+  },
+  {
+    "question": "How well have you been sleeping recently?",
+    "options": ["Very well", "Fairly well", "Average", "Not well", "Very poorly"]
+  },
+  {
+    "question": "How connected do you feel to the people around you?",
+    "options": ["Very connected", "Somewhat connected", "Neutral", "A little disconnected", "Very disconnected"]
+  },
+  {
+    "question": "How often do you feel hopeful about the future?",
+    "options": ["Always", "Often", "Sometimes", "Rarely", "Never"]
+  },
+  {
+    "question": "How able do you feel to handle daily stress?",
+    "options": ["Very able", "Able", "Neutral", "A bit overwhelmed", "Very overwhelmed"]
+  }
+]
+
+  
